@@ -6,6 +6,6 @@ export const authConfig = {
   // TODO: Create an Auth0 application and copy values from it into this map. For example:
   // domain: 'dev-nd9990-p4.us.auth0.com',
   domain: "dev-z0tw1lylaovmbofa.us.auth0.com", // Auth0 domain
-  clientId: "07GYtmIK54bARjbcSzJQZ0BkHQl4XR5J", // Auth0 client id
-  callbackUrl: "http://localhost:3000/callback",
+  clientId: "KrWlqCA7bqUA40mFspuLPEuw7fmr4c19", // Auth0 client id
+  callbackUrl: "http://a1245d6aeceed4813b40138c4a0f9cc9-917788837.us-east-1.elb.amazonaws.com:8080/",
 };
