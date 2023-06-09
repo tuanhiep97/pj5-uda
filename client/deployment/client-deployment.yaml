@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todoapp-frontend
-        image: hiepnnt/todoapp:v1
+        image: hiepnnt/todoapp:v2
         ports:
         - containerPort: 8080
